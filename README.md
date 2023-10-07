@@ -1,6 +1,31 @@
 # 💫 About Me:
-Enthusiastic and data-driven M.S. Data Science and Analytics student with a sturdy foundation in data analysis, statistics, engineering, and visualization. Skilled in Python, SQL, and data tools (Informatica, Denodo) and certified in AWS Fundamentals. Experienced in Diversity, Equity, and Inclusion (DEI) analysis. Proven record of accomplishment of delivering actionable insights and excellent project management skills. Seeking a Summer 2024 Internship as Data Analyst Intern or Data Scientist intern to leverage my technical expertise and passion for data management and data analytics.
+Hello! 👋 I'm Bharath, a passionate and data-driven M.S. Data Science and Analytics student with a strong foundation in data analysis, mathematics, statistics, and engineering challenges. I'm on a mission to extract valuable insights from data and leverage it to drive business strategy and enhance customer empathy.
 
+### What I Bring to the Table
+
+- 💼 **Academic Background:** I'm currently pursuing my M.S. in Data Science and Analytics from Georgia State University, where I'm honing my skills in machine learning, data visualization, and more.
+
+- 🛠️ **Technical Skills:** I'm proficient in various tools and technologies, including Python (NumPy, Pandas, Keras, OpenCV, Matplotlib, Seaborn), SQL, and data tools like Informatica and Denodo. I also have experience with Big Data technologies, including HDFS, Map Reduce, and Hive.
+
+- 🔬 **Work Experience:** As a Graduate Research Assistant, I've conducted in-depth data analysis on customer reviews, with a focus on Diversity, Equity, and Inclusion (DEI) themes. I've also worked at Cognizant as a Programmer Analyst Trainee, where I developed mappings, transformations, and workflows in Informatica PowerCenter.
+
+- 🤝 **Collaboration:** I thrive in team environments and have a proven record of collaborating effectively to extract meaningful insights from data.
+
+- 🌐 **Certifications:** I hold certifications in AWS Fundamentals, SQL, and Data Warehouse Fundamentals, among others, showcasing my commitment to continuous learning.
+
+### My GitHub Journey
+
+On my GitHub, you'll find a collection of projects that reflect my passion for data science, machine learning, and data analysis. Feel free to explore my repositories, and I welcome any feedback or collaboration opportunities.
+
+### Let's Connect
+
+I'm always eager to connect with fellow data enthusiasts, researchers, and professionals. Whether you have a question, a project idea, or simply want to chat about data, please don't hesitate to reach out. Let's learn and grow together!
+
+### Interests Beyond Data
+
+Outside of the data world, I have diverse interests, including soccer, chess, photography, and video games. I'm also multilingual, fluent in Tamil, English, and Telugu.
+
+Thanks for visiting my GitHub profile, and I look forward to connecting with you!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bvb_thats_it) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bvb01) 
