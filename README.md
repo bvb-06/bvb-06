@@ -9,7 +9,7 @@ Hello! 👋 I'm Bharath, a passionate and data-driven M.S. Data Science and Anal
 
 - 🔬 **Work Experience:** Result-driven data engineer with hands-on experience in building scalable data pipelines and automating infrastructure in cloud environments. Proven ability to optimize Spark workloads, develop CI/CD pipelines, and ensure data quality across 10PB+ datasets in Databricks. Strong foundation in machine learning, NLP, and advanced analytics backed by a 4.0 GPA in MS Data Science and Analytics from Georgia State University. Proficient with tools such as IntelliJ, Jenkins, Terraform, Git, and Databricks, with a demonstrated record of improving deployment efficiency, data observability, and regulatory compliance in both academic and enterprise settings.
 
-In addition, I have developed insightful dashboards using Power BI to track KPIs and operational performance, improving data-driven decision-making. Experienced in SQL-based reporting and trend analysis to support business strategy and uncover actionable insights from large, complex datasets..
+    In addition, I have developed insightful dashboards using Power BI to track KPIs and operational performance, improving data-driven decision-making. Experienced in SQL-based reporting and trend analysis to support business strategy and uncover actionable insights from large, complex datasets.
 
 - 🤝 **Collaboration:** I thrive in team environments and have a proven record of collaborating effectively to extract meaningful insights from data.
 
